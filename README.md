@@ -6,3 +6,5 @@ Python cv2 project to detect mask on face
 [![Pulls](https://img.shields.io:/github/issues-pr/Dimkarpenko/Mask-detector?style=flat-square)](https://github.com/Dimkarpenko/Mask-detector/pulls)
 [![size](https://img.shields.io:/github/languages/code-size/Dimkarpenko/Mask-detector?style=flat-square)](https://github.com/Dimkarpenko/Mask-detector)
 [![lang](https://img.shields.io:/github/languages/top/Dimkarpenko/Mask-detector?style=flat-square)](https://github.com/Dimkarpenko/Mask-detector/search?l=python)
+
+![image](https://user-images.githubusercontent.com/69617058/172290518-4d2cd69a-b149-43a2-bff7-357cf74ad605.png)
