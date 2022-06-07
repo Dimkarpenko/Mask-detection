@@ -9,4 +9,5 @@ Python cv2 project to detect mask on face
 
 ![1](https://user-images.githubusercontent.com/69617058/172290964-117c2b68-e741-4d4f-a468-e2b250748e5c.png)
 
+## Powered by
 ![image](https://user-images.githubusercontent.com/69617058/172290518-4d2cd69a-b149-43a2-bff7-357cf74ad605.png)
